@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 ---
 
 
-<div align="center">
 ## 💻 Tech Stack 💻
 ###### Techs that I've used at least once
-</div>
