@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 ## Hi there ❗ <img src="./images/wave-hello.gif" height="30">
 
-
-## 💻 Tech Stack 💻
+<div align=center>
+  
+### 💻 Tech Stack 💻
 ###### Techs that I've used at least once
+
+</div>
