@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Good%20to%20see%20you%20🤗&desc=I'm%20Sojin%20:%20%29&fontSize=60&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn)
 
 ## Hi there ❗ <img src="./images/wave-hello.gif" height="30">
----
 
 
 ## 💻 Tech Stack 💻
