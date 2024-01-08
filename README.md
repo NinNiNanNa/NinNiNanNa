@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **NinNiNanNa/NinNiNanNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Good%20to%20see%20you%20🤗&desc=I'm%20Sojin%20:%20%29&fontSize=60&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn)
+
+## Hi there ❗ <img src="./images/wave-hello.gif" height="30">
+---
+
+
+<div align="center">
+## 💻 Tech Stack 💻
+###### Techs that I've used at least once
+</div>
