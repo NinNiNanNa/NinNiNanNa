@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 ###### Techs that I've used at least once
 
 </div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
