@@ -1,342 +1,344 @@
-[
-  {
-    "type": "personal",
-    "name": "Netfilx-Clone",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_1.png",
-    "description": "넷플릭스를 클론하여 다양한 영화나 TV프로그램 정보를 제공하는 사이트입니다.",
-    "tags": [
-      "react",
-      "typescript",
-      "react-router-dom",
-      "framer-motion",
-      "react-hook-form",
-      "styled-components",
-      "react-query"
-    ],
-    "source_code": "https://github.com/NinNiNanNa/Netflix-Clone",
-    "detail_notion": "",
-    "detail_url": "",
-    "distribute": "https://ninninanna.github.io/Netflix-Clone/",
-    "created_year": "2024"
-  },
-  {
-    "type": "personal",
-    "name": "Todo-List",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_2.png",
-    "description": "사용자 지정 카테고리 Todo-List입니다.",
-    "tags": [
-      "react",
-      "typescript",
-      "recoil",
-      "react-hook-form",
-      "styled-components"
-    ],
-    "source_code": "https://github.com/NinNiNanNa/Todo-List",
-    "detail_notion": "",
-    "detail_url": "",
-    "distribute": "https://ninninanna.github.io/Todo-List/",
-    "created_year": "2024"
-  },
-  {
-    "type": "personal",
-    "name": "Crypto-Tracker",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_3.png",
-    "description": "코인 파프리카에서 제공받은 정보를 바탕으로 다양한 암호화폐 정보를 제공하는 사이트입니다.",
-    "tags": [
-      "react",
-      "typescript",
-      "recoil",
-      "react-router-dom",
-      "styled-components",
-      "react-query",
-      "Apexcharts"
-    ],
-    "source_code": "https://github.com/NinNiNanNa/Crypto-Tracker",
-    "detail_notion": "",
-    "detail_url": "",
-    "distribute": "https://ninninanna.github.io/Crypto-Tracker/",
-    "created_year": "2024"
-  },
-  {
-    "type": "personal",
-    "name": "Movie-List",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_4.png",
-    "description": "영화 API를 통해 영화 정보를 제공하는 사이트입니다.",
-    "tags": ["react", "react-router-dom", "react-bootstrap", "CSS Module"],
-    "source_code": "https://github.com/NinNiNanNa/Movie-List",
-    "detail_notion": "",
-    "detail_url": "",
-    "distribute": "https://ninninanna.github.io/Movie-List/",
-    "created_year": "2024"
-  },
-  {
-    "type": "personal",
-    "name": "Coin-Converter",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_5.png",
-    "description": "암호화폐 변환기 ToyProject입니다.",
-    "tags": ["react"],
-    "source_code": "https://github.com/NinNiNanNa/Coin-Converter",
-    "distribute": "https://ninninanna.github.io/Coin-Converter/",
-    "created_year": "2024"
-  },
-  {
-    "type": "personal",
-    "name": "Momentum",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_6.png",
-    "description": "크롬 확장앱인 Momentum을 클론한 ToyProject입니다.",
-    "tags": ["html", "css", "javascript"],
-    "source_code": "https://github.com/NinNiNanNa/Momentum",
-    "distribute": "https://ninninanna.github.io/Momentum/",
-    "created_year": "2024"
-  },
-  {
-    "type": "team",
-    "name": "Artium",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_7.png",
-    "description": "미술 전시 플랫폼 사이트입니다.",
-    "tags": [
-      "spring boot",
-      "MyBatis",
-      "google maps",
-      "oracle SQLdeveloper",
-      "jsp",
-      "Bootstrap",
-      "html",
-      "css",
-      "javascript"
-    ],
-    "source_code": "https://github.com/NinNiNanNa/ArtiumProject",
-    "detail_notion": "",
-    "detail_url": "",
-    "distribute": "",
-    "created_year": "2023"
-  },
-  {
-    "type": "personal",
-    "name": "EDIYA",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_22.png",
-    "description": "커피 체인점 이디야를 클론한 사이트입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "source_code": "https://github.com/NinNiNanNa/ArtiumProject",
-    "detail_notion": "",
-    "detail_url": "",
-    "distribute": "",
-    "created_year": "2023"
-  },
-  {
-    "type": "company",
-    "name": "P2X",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_3.png",
-    "description": "퍼블리시 근무 당시 제작한 P2X UI입니다.",
-    "tags": ["html", "css", "jQuery", "Chart.js"],
-    "detail_notion": "",
-    "created_year": "2023"
-  },
-  {
-    "type": "company",
-    "name": "인천국제공항 배수갑문 통합운영시스템",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_2.png",
-    "description": "퍼블리시 근무 당시 제작한 인천국제공항 배수갑문 통합운영시스템 사이트입니다.",
-    "tags": ["html", "css", "jQuery", "webGL"],
-    "detail_notion": "",
-    "created_year": "2022"
-  },
-  {
-    "type": "company",
-    "name": "두산중공업 창원공장 안전상활실",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_3.png",
-    "description": "퍼블리시 근무 당시 제작한 두산중공업 창원공장 안전상활실 사이트입니다.",
-    "tags": ["html", "css", "jQuery", "Chart.js"],
-    "detail_notion": "",
-    "created_year": "2022"
-  },
-  {
-    "type": "company",
-    "name": "로봇밸리",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_4.png",
-    "description": "퍼블리시 근무 당시 제작한 RV용접로봇 UI입니다.",
-    "tags": ["html", "css", "jQuery", "Chart.js"],
-    "detail_notion": "",
-    "created_year": "2022"
-  },
-  {
-    "type": "company",
-    "name": "김포열병합발전소 안전상황실",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_5.png",
-    "description": "퍼블리시 근무 당시 제작한 김포열병합발전소 안전상황실 사이트입니다.",
-    "tags": ["html", "css", "jQuery", "Chart.js"],
-    "detail_notion": "",
-    "created_year": "2022"
-  },
-  {
-    "type": "company",
-    "name": "연료전지",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_6.png",
-    "description": "퍼블리시 근무 당시 제작한 연료전지 UI입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "detail_notion": "",
-    "created_year": "2021"
-  },
-  {
-    "type": "company",
-    "name": "마리나항만",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_7.png",
-    "description": "퍼블리시 근무 당시 제작한 마리나 항만 통합관제시스템 사이트입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "detail_notion": "",
-    "created_year": "2021"
-  },
-  {
-    "type": "personal",
-    "name": "Portfolio 2020",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_8.png",
-    "description": "2020년도에 제작한 포트폴리오 사이트입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio",
-    "distribute": "https://ninninanna.github.io/2020ver-portfolio/",
-    "created_year": "2020"
-  },
-  {
-    "type": "common",
-    "name": "Market Kurly",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_9.png",
-    "description": "",
-    "tags": ["html", "css", "jQuery"],
-    "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/kurly",
-    "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/kurly/index.html",
-    "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/kurly/index.html",
-    "created_year": "2020"
-  },
-  {
-    "type": "common",
-    "name": "Design Hotels",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_10.png",
-    "description": "해외 여행 대표 비즈니스호텔 동영상위주로 제작된 홈페이지입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/hotels",
-    "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/hotels/index.html",
-    "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/hotels/index.html",
-    "created_year": "2020"
-  },
-  {
-    "type": "personal",
-    "name": "Interior Design",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_11.png",
-    "description": "LeadGen의 인테리어 디자인 템플릿 홈페이지입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/interiordesign",
-    "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/interior/index.html",
-    "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/interiordesign/index.html",
-    "created_year": "2020"
-  },
-  {
-    "type": "personal",
-    "name": "Corporate",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_12.png",
-    "description": "BRANDO의 기업 템플릿 홈페이지입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/corporate",
-    "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/corporate/index.html",
-    "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/corporate/index.html",
-    "created_year": "2020"
-  },
-  {
-    "type": "common",
-    "name": "Restaurant",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_13.png",
-    "description": "BRANDO의 레스토랑 템플릿 홈페이지입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/restaurant",
-    "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/restaurant/index.html",
-    "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/restaurant/index.html",
-    "created_year": "2020"
-  },
-  {
-    "type": "personal",
-    "name": "Laneige",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_14.png",
-    "description": "수분과 빛의 어우러짐으로 만들어내는 아름다움, 라네즈 화장품 소개 홈페이지입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/laneige",
-    "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/laneige/index.html",
-    "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/laneige/index.html",
-    "created_year": "2020"
-  },
-  {
-    "type": "common",
-    "name": "Morip",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_15.png",
-    "description": "허니문, 가족여행 전문여행사의 해외ver. 발리, 몰디브, 하와이 리조트 소개 홈페이지입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/morip",
-    "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/morip/index.html",
-    "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/morip/index.html",
-    "created_year": "2020"
-  },
-  {
-    "type": "common",
-    "name": "Simplicity",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_16.png",
-    "description": "식스샵의 쇼핑몰 템플릿 홈페이지입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/simplicity",
-    "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/simplicity/index.html",
-    "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/simplicity/index.html",
-    "created_year": "2020"
-  },
-  {
-    "type": "personal",
-    "name": "Lincoln",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_17.png",
-    "description": "최첨단 기술과 디자인을 겸비한 링컨자동차 소개 홈페이지입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/lincoln",
-    "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/lincoln/index.html",
-    "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/lincoln/index.html",
-    "created_year": "2020"
-  },
-  {
-    "type": "personal",
-    "name": "Genesis",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_18.png",
-    "description": "현대자동차 고급 자동차 브랜드 제네시스 소개 홈페이지입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/genesis",
-    "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/genesis/index.html",
-    "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/genesis/index.html",
-    "created_year": "2020"
-  },
-  {
-    "type": "common",
-    "name": "Starbucks",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_19.png",
-    "description": "커피 전문 프랜차이즈 스타벅스 공식 홈페이지입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/starbucks",
-    "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/starbucks/index.html",
-    "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/starbucks/index.html",
-    "created_year": "2020"
-  },
-  {
-    "type": "personal",
-    "name": "#OOTD",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_20.png",
-    "description": "패션에 관심있는 사용자들의 원활한 소통 공간, 중고거래 서비스, AR기능을 통해 가상 피팅 서비스를 지원하는 앱입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "drive_url": "https://drive.google.com/file/d/1onPEV4oD4YX6hZdfcyHm4NWobjlFThQ_/view",
-    "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/ootd/index.html",
-    "distribute": "https://ovenapp.io/view/ssmw0iCy4PxjXimbzJPRdwgTkvLiBRYn/j6cg4",
-    "created_year": "2019"
-  },
-  {
-    "type": "team",
-    "name": "고,고,고!",
-    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_21.png",
-    "description": "혼자 다니기 좋은 여행지, 숙소, 맛집, 카페, 액티비티 등을 추천, 혼행족 또는 여행 스타일이 맞는 사람들과 동행할 수 있도록 도와주는 앱입니다.",
-    "tags": ["html", "css", "jQuery"],
-    "drive_url": "https://drive.google.com/file/d/1Z3tXkrDofJqI1DuiNqb_bJyKGeeSEKg-/view",
-    "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/gox3/index.html",
-    "distribute": "https://xd.adobe.com/view/56e7e15f-7f07-40d1-8a1b-e92c28ea5916-03b4/",
-    "created_year": "2019"
-  }
-]
+{
+  "projects": [
+    {
+      "type": "personal",
+      "name": "Netfilx-Clone",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_1.png",
+      "description": "넷플릭스를 클론하여 다양한 영화나 TV프로그램 정보를 제공하는 사이트입니다.",
+      "tags": [
+        "react",
+        "typescript",
+        "react-router-dom",
+        "framer-motion",
+        "react-hook-form",
+        "styled-components",
+        "react-query"
+      ],
+      "source_code": "https://github.com/NinNiNanNa/Netflix-Clone",
+      "detail_notion": "",
+      "detail_url": "",
+      "distribute": "https://ninninanna.github.io/Netflix-Clone/",
+      "created_year": "2024"
+    },
+    {
+      "type": "personal",
+      "name": "Todo-List",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_2.png",
+      "description": "사용자 지정 카테고리 Todo-List입니다.",
+      "tags": [
+        "react",
+        "typescript",
+        "recoil",
+        "react-hook-form",
+        "styled-components"
+      ],
+      "source_code": "https://github.com/NinNiNanNa/Todo-List",
+      "detail_notion": "",
+      "detail_url": "",
+      "distribute": "https://ninninanna.github.io/Todo-List/",
+      "created_year": "2024"
+    },
+    {
+      "type": "personal",
+      "name": "Crypto-Tracker",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_3.png",
+      "description": "코인 파프리카에서 제공받은 정보를 바탕으로 다양한 암호화폐 정보를 제공하는 사이트입니다.",
+      "tags": [
+        "react",
+        "typescript",
+        "recoil",
+        "react-router-dom",
+        "styled-components",
+        "react-query",
+        "Apexcharts"
+      ],
+      "source_code": "https://github.com/NinNiNanNa/Crypto-Tracker",
+      "detail_notion": "",
+      "detail_url": "",
+      "distribute": "https://ninninanna.github.io/Crypto-Tracker/",
+      "created_year": "2024"
+    },
+    {
+      "type": "personal",
+      "name": "Movie-List",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_4.png",
+      "description": "영화 API를 통해 영화 정보를 제공하는 사이트입니다.",
+      "tags": ["react", "react-router-dom", "react-bootstrap", "CSS Module"],
+      "source_code": "https://github.com/NinNiNanNa/Movie-List",
+      "detail_notion": "",
+      "detail_url": "",
+      "distribute": "https://ninninanna.github.io/Movie-List/",
+      "created_year": "2024"
+    },
+    {
+      "type": "personal",
+      "name": "Coin-Converter",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_5.png",
+      "description": "암호화폐 변환기 ToyProject입니다.",
+      "tags": ["react"],
+      "source_code": "https://github.com/NinNiNanNa/Coin-Converter",
+      "distribute": "https://ninninanna.github.io/Coin-Converter/",
+      "created_year": "2024"
+    },
+    {
+      "type": "personal",
+      "name": "Momentum",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_6.png",
+      "description": "크롬 확장앱인 Momentum을 클론한 ToyProject입니다.",
+      "tags": ["html", "css", "javascript"],
+      "source_code": "https://github.com/NinNiNanNa/Momentum",
+      "distribute": "https://ninninanna.github.io/Momentum/",
+      "created_year": "2024"
+    },
+    {
+      "type": "team",
+      "name": "Artium",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_7.png",
+      "description": "미술 전시 플랫폼 사이트입니다.",
+      "tags": [
+        "spring boot",
+        "MyBatis",
+        "google maps",
+        "oracle SQLdeveloper",
+        "jsp",
+        "Bootstrap",
+        "html",
+        "css",
+        "javascript"
+      ],
+      "source_code": "https://github.com/NinNiNanNa/ArtiumProject",
+      "detail_notion": "",
+      "detail_url": "",
+      "distribute": "",
+      "created_year": "2023"
+    },
+    {
+      "type": "personal",
+      "name": "EDIYA",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_22.png",
+      "description": "커피 체인점 이디야를 클론한 사이트입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "source_code": "https://github.com/NinNiNanNa/ArtiumProject",
+      "detail_notion": "",
+      "detail_url": "",
+      "distribute": "",
+      "created_year": "2023"
+    },
+    {
+      "type": "company",
+      "name": "P2X",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_3.png",
+      "description": "퍼블리시 근무 당시 제작한 P2X UI입니다.",
+      "tags": ["html", "css", "jQuery", "Chart.js"],
+      "detail_notion": "",
+      "created_year": "2023"
+    },
+    {
+      "type": "company",
+      "name": "인천국제공항 배수갑문 통합운영시스템",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_2.png",
+      "description": "퍼블리시 근무 당시 제작한 인천국제공항 배수갑문 통합운영시스템 사이트입니다.",
+      "tags": ["html", "css", "jQuery", "webGL"],
+      "detail_notion": "",
+      "created_year": "2022"
+    },
+    {
+      "type": "company",
+      "name": "두산중공업 창원공장 안전상활실",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_3.png",
+      "description": "퍼블리시 근무 당시 제작한 두산중공업 창원공장 안전상활실 사이트입니다.",
+      "tags": ["html", "css", "jQuery", "Chart.js"],
+      "detail_notion": "",
+      "created_year": "2022"
+    },
+    {
+      "type": "company",
+      "name": "로봇밸리",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_4.png",
+      "description": "퍼블리시 근무 당시 제작한 RV용접로봇 UI입니다.",
+      "tags": ["html", "css", "jQuery", "Chart.js"],
+      "detail_notion": "",
+      "created_year": "2022"
+    },
+    {
+      "type": "company",
+      "name": "김포열병합발전소 안전상황실",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_5.png",
+      "description": "퍼블리시 근무 당시 제작한 김포열병합발전소 안전상황실 사이트입니다.",
+      "tags": ["html", "css", "jQuery", "Chart.js"],
+      "detail_notion": "",
+      "created_year": "2022"
+    },
+    {
+      "type": "company",
+      "name": "연료전지",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_6.png",
+      "description": "퍼블리시 근무 당시 제작한 연료전지 UI입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "detail_notion": "",
+      "created_year": "2021"
+    },
+    {
+      "type": "company",
+      "name": "마리나항만",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_7.png",
+      "description": "퍼블리시 근무 당시 제작한 마리나 항만 통합관제시스템 사이트입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "detail_notion": "",
+      "created_year": "2021"
+    },
+    {
+      "type": "personal",
+      "name": "Portfolio 2020",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_8.png",
+      "description": "2020년도에 제작한 포트폴리오 사이트입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio",
+      "distribute": "https://ninninanna.github.io/2020ver-portfolio/",
+      "created_year": "2020"
+    },
+    {
+      "type": "common",
+      "name": "Market Kurly",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_9.png",
+      "description": "",
+      "tags": ["html", "css", "jQuery"],
+      "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/kurly",
+      "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/kurly/index.html",
+      "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/kurly/index.html",
+      "created_year": "2020"
+    },
+    {
+      "type": "common",
+      "name": "Design Hotels",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_10.png",
+      "description": "해외 여행 대표 비즈니스호텔 동영상위주로 제작된 홈페이지입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/hotels",
+      "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/hotels/index.html",
+      "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/hotels/index.html",
+      "created_year": "2020"
+    },
+    {
+      "type": "personal",
+      "name": "Interior Design",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_11.png",
+      "description": "LeadGen의 인테리어 디자인 템플릿 홈페이지입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/interiordesign",
+      "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/interior/index.html",
+      "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/interiordesign/index.html",
+      "created_year": "2020"
+    },
+    {
+      "type": "personal",
+      "name": "Corporate",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_12.png",
+      "description": "BRANDO의 기업 템플릿 홈페이지입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/corporate",
+      "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/corporate/index.html",
+      "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/corporate/index.html",
+      "created_year": "2020"
+    },
+    {
+      "type": "common",
+      "name": "Restaurant",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_13.png",
+      "description": "BRANDO의 레스토랑 템플릿 홈페이지입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/restaurant",
+      "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/restaurant/index.html",
+      "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/restaurant/index.html",
+      "created_year": "2020"
+    },
+    {
+      "type": "personal",
+      "name": "Laneige",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_14.png",
+      "description": "수분과 빛의 어우러짐으로 만들어내는 아름다움, 라네즈 화장품 소개 홈페이지입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/laneige",
+      "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/laneige/index.html",
+      "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/laneige/index.html",
+      "created_year": "2020"
+    },
+    {
+      "type": "common",
+      "name": "Morip",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_15.png",
+      "description": "허니문, 가족여행 전문여행사의 해외ver. 발리, 몰디브, 하와이 리조트 소개 홈페이지입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/morip",
+      "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/morip/index.html",
+      "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/morip/index.html",
+      "created_year": "2020"
+    },
+    {
+      "type": "common",
+      "name": "Simplicity",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_16.png",
+      "description": "식스샵의 쇼핑몰 템플릿 홈페이지입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/simplicity",
+      "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/simplicity/index.html",
+      "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/simplicity/index.html",
+      "created_year": "2020"
+    },
+    {
+      "type": "personal",
+      "name": "Lincoln",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_17.png",
+      "description": "최첨단 기술과 디자인을 겸비한 링컨자동차 소개 홈페이지입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/lincoln",
+      "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/lincoln/index.html",
+      "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/lincoln/index.html",
+      "created_year": "2020"
+    },
+    {
+      "type": "personal",
+      "name": "Genesis",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_18.png",
+      "description": "현대자동차 고급 자동차 브랜드 제네시스 소개 홈페이지입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/genesis",
+      "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/genesis/index.html",
+      "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/genesis/index.html",
+      "created_year": "2020"
+    },
+    {
+      "type": "common",
+      "name": "Starbucks",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_19.png",
+      "description": "커피 전문 프랜차이즈 스타벅스 공식 홈페이지입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "source_code": "https://github.com/NinNiNanNa/2020ver-portfolio/tree/main/project/starbucks",
+      "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/starbucks/index.html",
+      "distribute": "https://ninninanna.github.io/2020ver-portfolio/project/starbucks/index.html",
+      "created_year": "2020"
+    },
+    {
+      "type": "personal",
+      "name": "#OOTD",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_20.png",
+      "description": "패션에 관심있는 사용자들의 원활한 소통 공간, 중고거래 서비스, AR기능을 통해 가상 피팅 서비스를 지원하는 앱입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "drive_url": "https://drive.google.com/file/d/1onPEV4oD4YX6hZdfcyHm4NWobjlFThQ_/view",
+      "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/ootd/index.html",
+      "distribute": "https://ovenapp.io/view/ssmw0iCy4PxjXimbzJPRdwgTkvLiBRYn/j6cg4",
+      "created_year": "2019"
+    },
+    {
+      "type": "team",
+      "name": "고,고,고!",
+      "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_21.png",
+      "description": "혼자 다니기 좋은 여행지, 숙소, 맛집, 카페, 액티비티 등을 추천, 혼행족 또는 여행 스타일이 맞는 사람들과 동행할 수 있도록 도와주는 앱입니다.",
+      "tags": ["html", "css", "jQuery"],
+      "drive_url": "https://drive.google.com/file/d/1Z3tXkrDofJqI1DuiNqb_bJyKGeeSEKg-/view",
+      "detail_url": "https://ninninanna.github.io/2020ver-portfolio/sub/gox3/index.html",
+      "distribute": "https://xd.adobe.com/view/56e7e15f-7f07-40d1-8a1b-e92c28ea5916-03b4/",
+      "created_year": "2019"
+    }
+  ]
+}
