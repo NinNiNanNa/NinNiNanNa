@@ -113,6 +113,81 @@
   },
   {
     "type": "personal",
+    "name": "EDIYA",
+    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_22.png",
+    "description": "커피 체인점 이디야를 클론한 사이트입니다.",
+    "tags": ["html", "css", "jQuery"],
+    "source_code": "https://github.com/NinNiNanNa/ArtiumProject",
+    "detail_notion": "",
+    "detail_url": "",
+    "distribute": "",
+    "created_year": "2023"
+  },
+  {
+    "type": "company",
+    "name": "P2X",
+    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_3.png",
+    "description": "퍼블리시 근무 당시 제작한 P2X UI입니다.",
+    "tags": ["html", "css", "jQuery", "Chart.js"],
+    "detail_notion": "",
+    "created_year": "2023"
+  },
+  {
+    "type": "company",
+    "name": "인천국제공항 배수갑문 통합운영시스템",
+    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_2.png",
+    "description": "퍼블리시 근무 당시 제작한 인천국제공항 배수갑문 통합운영시스템 사이트입니다.",
+    "tags": ["html", "css", "jQuery", "webGL"],
+    "detail_notion": "",
+    "created_year": "2022"
+  },
+  {
+    "type": "company",
+    "name": "두산중공업 창원공장 안전상활실",
+    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_3.png",
+    "description": "퍼블리시 근무 당시 제작한 두산중공업 창원공장 안전상활실 사이트입니다.",
+    "tags": ["html", "css", "jQuery", "Chart.js"],
+    "detail_notion": "",
+    "created_year": "2022"
+  },
+  {
+    "type": "company",
+    "name": "로봇밸리",
+    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_4.png",
+    "description": "퍼블리시 근무 당시 제작한 RV용접로봇 UI입니다.",
+    "tags": ["html", "css", "jQuery", "Chart.js"],
+    "detail_notion": "",
+    "created_year": "2022"
+  },
+  {
+    "type": "company",
+    "name": "김포열병합발전소 안전상황실",
+    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_5.png",
+    "description": "퍼블리시 근무 당시 제작한 김포열병합발전소 안전상황실 사이트입니다.",
+    "tags": ["html", "css", "jQuery", "Chart.js"],
+    "detail_notion": "",
+    "created_year": "2022"
+  },
+  {
+    "type": "company",
+    "name": "연료전지",
+    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_6.png",
+    "description": "퍼블리시 근무 당시 제작한 연료전지 UI입니다.",
+    "tags": ["html", "css", "jQuery"],
+    "detail_notion": "",
+    "created_year": "2021"
+  },
+  {
+    "type": "company",
+    "name": "마리나항만",
+    "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/company_7.png",
+    "description": "퍼블리시 근무 당시 제작한 마리나 항만 통합관제시스템 사이트입니다.",
+    "tags": ["html", "css", "jQuery"],
+    "detail_notion": "",
+    "created_year": "2021"
+  },
+  {
+    "type": "personal",
     "name": "Portfolio 2020",
     "img": "https://ninninanna.github.io/NinNiNanNa/projects-data/image/project_8.png",
     "description": "2020년도에 제작한 포트폴리오 사이트입니다.",
